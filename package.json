@@ -1,9 +1,9 @@
 {
-  "name": "react-electron-webpack-ipc",
+  "name": "react-electron-webpack-boilerplate",
   "description": "A boilerplate for electron and react set up with webpack",
   "author": "Mohammed S. Yaseen",
-  "license": "ISC",
-  "productName": "electron-react-app",
+  "license": "MIT",
+  "productName": "react-electron-webpack-boilerplate",
   "version": "1.0.0",
   "homepage": "./",
   "main": "main.js",
