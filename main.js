@@ -27,7 +27,8 @@ function createWindow() {
     height: 768, // height of the window
     show: false, // don't show until window is ready
     webPreferences: {
-      nodeIntegration: true
+      nodeIntegration: true,
+      contextIsolation: false
     }
   })  
   // and load the index.html of the app.
